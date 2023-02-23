@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Starter Code for Week 5 Day 5 Activity",
   "main": "Bag.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/MultiverseLearningProducts/static-bag#readme",
   "dependencies": {
+    "chalk": "^5.2.0",
     "jest": "^27.5.1"
   }
 }
