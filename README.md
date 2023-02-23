@@ -4,7 +4,7 @@
 **GOAL**: Add static properties to the `Bag` class and create tests to verify their properties have been created.
 
 ## Directions
-1. Modify your `Bag` class to add a static property to hold the maximum weight of a bag (23kg)
-2. Write code to throw an exception if a bag is constructed with a weight greater than this maximum
-3. Add tests to validate your logic
-4. Save and commit work back to GitHub
+1. Modify your `Bag` class to add a static property to hold the maximum weight of a bag (23kg)[X]
+2. Write code to throw an exception if a bag is constructed with a weight greater than this maximum[X]
+3. Add tests to validate your logic[X]
+4. Save and commit work back to GitHub[X]
